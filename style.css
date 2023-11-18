@@ -1,0 +1,27 @@
+h1{
+    color: rgb(6, 6, 82);
+}
+
+#diferentão{
+    color: rgb(122, 22, 216);
+}
+
+.estilizado{
+    color: rgb(122, 22, 216);
+    font-family:'Courier New', Courier, monospace ;
+}
+#caixinha{
+    background-color: yellow
+}
+#caixinha .estilizado{
+    color:rgb(124, 196, 16)
+}
+img {
+    width: 500px; 
+}
+
+body{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: afffaf 2px;
+    
+}
